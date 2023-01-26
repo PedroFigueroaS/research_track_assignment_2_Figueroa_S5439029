@@ -3,7 +3,7 @@
 GITHUB LINK OF THE PROJECT: https://github.com/PedroFigueroaS/research_track_assignment_2_Figueroa_S5439029
 ## Compiling the project
 
-In the ros main file compile in the terminal
+In the ros main file run in the terminal
 
 ```console
 catkin_make
@@ -11,7 +11,7 @@ catkin_make
 
 ## Running the project
 
-To run the program run the follow command in a terminal
+To run the program run the following command in a terminal
 
 ```console
 roslaunch assignment_2_2022 nodes.launch 
